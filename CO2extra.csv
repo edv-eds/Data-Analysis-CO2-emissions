@@ -1,0 +1,168 @@
+country;CO2 2000;CO2 2018;BNP/capita;Befolkningsmängd;Region;Medellivslängd
+Afghanistan;0.037;0.254;571;38000000;south_asia;64.1
+Albania;0.966;1.59;5210;2880000;europe_central_asia;78.5
+Algeria;2.82;3.69;4710;43100000;middle_east_north_africa;78.1
+Angola;0.581;1.12;3100;31800000;sub_saharan_africa;65
+Antigua and Barbuda;4.54;5.88;15700;97100;america;77.3
+Argentina;3.85;4.41;9730;44800000;america;77
+Armenia;1.14;1.89;4730;2960000;europe_central_asia;75.9
+Australia;18.5;16.9;57100;25200000;east_asia_pacific;82.7
+Austria;8.22;7.75;50700;8960000;europe_central_asia;82
+Azerbaijan;3.64;3.7;5880;10000000;europe_central_asia;71.1
+Bahamas;6.55;4.7;27500;389000;america;74.1
+Bahrain;28.3;19.8;20900;1640000;middle_east_north_africa;79.8
+Bangladesh;0.208;0.531;1290;163000000;south_asia;73.7
+Barbados;4.24;4.48;16100;287000;america;77.3
+Belarus;5.62;6.93;6680;9450000;europe_central_asia;74.5
+Belgium;12.3;8.69;47500;11500000;europe_central_asia;81.7
+Belize;1.6;1.5;4150;390000;america;74.4
+Benin;0.229;0.623;1260;11800000;sub_saharan_africa;65.3
+Bolivia;1.31;1.96;2580;11500000;america;73.3
+Bosnia and Herzegovina;3.66;6.53;6240;3300000;europe_central_asia;77
+Botswana;2.3;2.96;8090;2300000;sub_saharan_africa;69.8
+Brazil;1.86;2.18;11100;211000000;america;75.9
+Brunei;13.8;18.5;32300;433000;east_asia_pacific;75.6
+Bulgaria;5.66;6.32;9030;7000000;europe_central_asia;75.1
+Burkina Faso;0.0889;0.198;822;20300000;sub_saharan_africa;62.5
+Burundi;0.0425;0.0467;208;11500000;sub_saharan_africa;62.3
+Cambodia;0.163;0.64;1270;16500000;east_asia_pacific;70.4
+Cameroon;0.216;0.323;1520;25900000;sub_saharan_africa;63.8
+Canada;18.7;15.3;51600;37400000;america;82.2
+Cape Verde;0.505;1.16;3910;550000;sub_saharan_africa;76.2
+Central African Republic;0.0735;0.0651;384;4750000;sub_saharan_africa;52.9
+Chad;0.0584;0.0656;814;15900000;sub_saharan_africa;60.6
+Chile;3.79;4.59;15100;19000000;america;80
+China;2.6;7.06;8250;1430000000;east_asia_pacific;77.5
+Colombia;1.42;1.96;7840;50300000;america;80.5
+Comoros;0.189;0.263;1410;851000;sub_saharan_africa;69.1
+Congo Dem. Rep.;0.019;0.0243;424;86800000;sub_saharan_africa;63
+Congo Rep.;0.335;0.617;2610;5380000;sub_saharan_africa;63.3
+Costa Rica;1.36;1.61;10000;5050000;america;79.8
+Cote d'Ivoire;0.393;0.335;1740;25700000;sub_saharan_africa;63.3
+Croatia;4.45;4.48;16500;4130000;europe_central_asia;78.8
+Cyprus;7.56;6.3;32100;1200000;europe_central_asia;82
+Czech Republic;12.4;9.94;23800;10700000;europe_central_asia;79.5
+Denmark;10.2;6.06;65100;5770000;europe_central_asia;81
+Dominican Republic;2.31;2.34;8010;10700000;america;73.5
+Ecuador;1.62;2.46;5100;17400000;america;77.2
+Egypt;2.04;2.43;3010;100000000;middle_east_north_africa;71
+El Salvador;0.964;1.11;3570;6450000;america;74.5
+Equatorial Guinea;0.756;4.35;9240;1360000;sub_saharan_africa;66.3
+Estonia;11;14.8;20700;1330000;europe_central_asia;78.5
+Ethiopia;0.0524;0.137;602;112000000;sub_saharan_africa;69.1
+Fiji;1.03;2.41;4810;890000;east_asia_pacific;68.3
+Finland;11;8.52;49200;5530000;europe_central_asia;81.8
+France;7.06;5.2;44300;65100000;europe_central_asia;83.1
+Gabon;3.8;2.53;9130;2170000;sub_saharan_africa;69
+Gambia;0.209;0.268;809;2350000;sub_saharan_africa;66.4
+Georgia;1.03;2.64;4990;4000000;europe_central_asia;73.2
+Germany;11.1;9.14;47600;83500000;europe_central_asia;80.9
+Ghana;0.317;0.615;1880;30400000;sub_saharan_africa;66.1
+Greece;9.3;7.03;24000;10500000;europe_central_asia;81.3
+Grenada;1.85;2.43;9330;112000;america;74.1
+Guatemala;0.839;1.07;3410;17600000;america;73.1
+Guinea;0.181;0.256;921;12800000;sub_saharan_africa;61.6
+Guinea-Bissau;0.122;0.181;635;1920000;sub_saharan_africa;60.7
+Guyana;2.16;3.12;4160;783000;america;69.5
+Haiti;0.159;0.27;714;11300000;america;65.7
+Honduras;0.751;1.04;2240;9750000;america;74.3
+Hungary;5.73;5.14;17500;9680000;europe_central_asia;77.2
+Iceland;10.5;10.8;51300;339000;europe_central_asia;83
+India;0.975;1.96;2170;1370000000;south_asia;69.5
+Indonesia;1.26;2.3;4450;271000000;east_asia_pacific;71.9
+Iraq;3.05;5.32;5590;39300000;middle_east_north_africa;77.1
+Ireland;12;8.09;79700;4880000;europe_central_asia;82.3
+Israel;10;7.67;35300;8520000;middle_east_north_africa;83.3
+Italy;8.3;5.58;35600;60600000;europe_central_asia;83.5
+Jamaica;3.89;2.79;4870;2950000;america;74.9
+Japan;9.93;9.14;49200;127000000;east_asia_pacific;84.5
+Jordan;2.97;2.42;3280;10100000;middle_east_north_africa;79.6
+Kazakhstan;8.95;17.6;11500;18600000;europe_central_asia;72.8
+Kenya;0.323;0.36;1240;52600000;sub_saharan_africa;66.7
+Kiribati;0.391;0.601;1790;118000;east_asia_pacific;62.9
+Kuwait;26.1;23.7;32700;4210000;middle_east_north_africa;83.3
+Kyrgyz Republic;0.936;1.6;1120;6420000;europe_central_asia;73
+Lao;0.18;2.74;1840;7170000;east_asia_pacific;68.2
+Latvia;2.97;3.73;16700;1910000;europe_central_asia;75.4
+Lebanon;4.03;3.53;5860;6860000;middle_east_north_africa;78.1
+Lesotho;0.911;1.26;1380;2130000;sub_saharan_africa;56.1
+Liberia;0.148;0.324;516;4940000;sub_saharan_africa;65.2
+Libya;8.74;8.09;8120;6780000;middle_east_north_africa;73.3
+Lithuania;3.37;4.84;18400;2760000;europe_central_asia;75.4
+Luxembourg;20;15.9;111000;616000;europe_central_asia;82
+Madagascar;0.119;0.163;500;27000000;sub_saharan_africa;64.2
+Malawi;0.0776;0.0762;524;18600000;sub_saharan_africa;64.2
+Malaysia;5.46;8.08;12500;31900000;east_asia_pacific;75
+Maldives;1.61;2.96;8210;531000;south_asia;82.1
+Mali;0.076;0.187;793;19700000;sub_saharan_africa;62.9
+Malta;6.42;3.61;28900;440000;europe_central_asia;81.3
+Mauritania;0.424;0.605;1760;4530000;sub_saharan_africa;71
+Mauritius;2.27;3.83;10900;1270000;sub_saharan_africa;75
+Mexico;4.01;3.79;10300;128000000;america;75.6
+Moldova;0.851;1.27;3720;4040000;europe_central_asia;73.1
+Mongolia;3.13;8.88;4350;3230000;east_asia_pacific;69.3
+Montenegro;2.48;3.2;8550;628000;europe_central_asia;76.7
+Morocco;1.17;1.84;3400;36500000;middle_east_north_africa;74.4
+Mozambique;0.0747;0.281;587;30400000;sub_saharan_africa;59.9
+Myanmar;0.215;0.491;1610;54000000;east_asia_pacific;69.1
+Namibia;0.915;1.75;5770;2490000;sub_saharan_africa;67.2
+Nepal;0.127;0.337;859;28600000;south_asia;71.5
+Netherlands;10.8;9.48;55700;17100000;europe_central_asia;81.8
+New Zealand;8.38;7.34;39000;4780000;east_asia_pacific;81.9
+Nicaragua;0.735;0.862;1760;6550000;america;79.2
+Niger;0.0612;0.103;558;23300000;sub_saharan_africa;63.2
+Nigeria;0.645;0.65;2390;201000000;sub_saharan_africa;65.2
+North Macedonia;5.93;3.49;5630;2080000;europe_central_asia;76.8
+Norway;9.46;8.31;92600;5380000;europe_central_asia;82.6
+Oman;9.5;13.9;15000;4970000;middle_east_north_africa;77.6
+Pakistan;0.741;1.05;1190;217000000;south_asia;67.2
+Panama;1.89;2.62;11900;4250000;america;79.7
+Papua New Guinea;0.456;0.911;2510;8780000;east_asia_pacific;58.9
+Paraguay;0.678;1.07;5310;7040000;america;76.4
+Peru;1.14;1.74;6490;32500000;america;80.8
+Philippines;0.928;1.27;3340;108000000;east_asia_pacific;70
+Poland;8.26;9.07;17400;37900000;europe_central_asia;78.4
+Portugal;6.43;4.97;24600;10200000;europe_central_asia;81.8
+Qatar;58.4;38;62000;2830000;middle_east_north_africa;80.5
+Romania;4.31;3.8;12100;19400000;europe_central_asia;75.4
+Russia;10.1;11.7;12000;146000000;europe_central_asia;72.5
+Rwanda;0.0656;0.0913;905;12600000;sub_saharan_africa;69.1
+Samoa;0.82;1.32;3860;197000;east_asia_pacific;73.2
+Sao Tome and Principe;0.335;0.587;1300;215000;sub_saharan_africa;67.3
+Saudi Arabia;14.4;18.4;20500;34300000;middle_east_north_africa;77.1
+Senegal;0.389;0.739;1580;16300000;sub_saharan_africa;68.6
+Serbia;4.74;5.17;7210;8770000;europe_central_asia;76
+Seychelles;7.06;6.75;15000;97700;sub_saharan_africa;73.8
+Sierra Leone;0.0848;0.141;488;7810000;sub_saharan_africa;61.3
+Singapore;12.1;7.1;58800;5800000;east_asia_pacific;85.1
+Slovak Republic;7.64;6.61;21000;5460000;europe_central_asia;77.7
+Slovenia;7.78;6.95;27200;2080000;europe_central_asia;81.4
+Solomon Islands;0.373;0.273;1480;670000;east_asia_pacific;68.9
+South Africa;8.42;8.1;7350;58600000;sub_saharan_africa;66.9
+South Korea;9.41;12.9;28600;51200000;east_asia_pacific;83
+Spain;7.62;5.75;33300;46700000;europe_central_asia;83.3
+Sri Lanka;0.54;1.1;4010;21300000;south_asia;77.8
+St. Lucia;2.22;2.31;9350;183000;america;75.8
+St. Vincent and the Grenadines;1.36;2.03;6850;111000;america;72.5
+Sudan;0.185;0.504;1720;42800000;sub_saharan_africa;70.8
+Suriname;4.66;3.1;7970;581000;america;72.3
+Sweden;6.16;4.12;58000;10000000;europe_central_asia;82.8
+Switzerland;6.11;4.33;79400;8590000;europe_central_asia;84.3
+Tajikistan;0.359;0.603;1120;9320000;europe_central_asia;70.8
+Tanzania;0.0768;0.222;985;58000000;sub_saharan_africa;67.7
+Thailand;2.71;4.15;6500;69600000;east_asia_pacific;78.6
+Togo;0.271;0.434;696;8080000;sub_saharan_africa;65
+Trinidad and Tobago;18.8;31.3;15100;1390000;america;74.5
+Tunisia;2.03;2.73;4410;11700000;middle_east_north_africa;78.7
+Turkey;3.64;5.2;15000;83400000;europe_central_asia;79.5
+Uganda;0.0593;0.135;957;44300000;sub_saharan_africa;66.6
+Ukraine;5.85;5.09;3220;44000000;europe_central_asia;70.8
+United Arab Emirates;35.7;21.4;41400;9770000;middle_east_north_africa;73.6
+United Kingdom;9.63;5.65;43700;67500000;europe_central_asia;81.1
+United States;21.3;16.6;55700;329000000;america;78.6
+Uruguay;1.59;2.01;14600;3460000;america;77.3
+Uzbekistan;4.91;2.81;2460;33000000;europe_central_asia;70.7
+Vanuatu;0.456;0.529;2870;300000;east_asia_pacific;65
+Vietnam;0.655;2.16;2080;96500000;east_asia_pacific;74.7
+Zambia;0.172;0.302;1660;17900000;sub_saharan_africa;64
+Zimbabwe;1.16;0.85;1180;14600000;sub_saharan_africa;62
